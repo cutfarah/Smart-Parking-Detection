@@ -38,7 +38,7 @@ Model dilatih selama **50 epoch** (`imgsz=640`) pada lingkungan GPU Tesla T4 dan
 
 ### Kurva Pelatihan (`results.png`)
 
-> *Catatan: Pastikan file gambar hasil pelatihan disimpan di folder `assets/` dengan nama `results.png` dan `confusion_matrix.png` (atau sesuaikan path gambar di bawah ini).*
+
 
 ![Training Results](assets/results.png)
 
@@ -69,7 +69,7 @@ smart-parking-detection/
 
 ### 1. Clone Repositori
 ```bash
-git clone https://github.com/username-kamu/smart-parking-detection.git
+git clone https://github.com/cutfarah/smart-parking-detection.git
 cd smart-parking-detection
 ```
 
@@ -89,7 +89,7 @@ pip install ultralytics streamlit opencv-python-headless pillow numpy PyYAML
 ### 3. Pastikan Bobot Model Tersedia
 Letakkan file bobot hasil pelatihan (`best.pt`) di dalam folder `models/`:
 ```text
-models/best.pt
+model/best.pt
 ```
 
 ### 4. Jalankan Aplikasi Streamlit
