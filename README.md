@@ -1,3 +1,10 @@
+# Kelompok 03
+
+1. Mahda Annisa              2408107010036
+2. M. Rayan Zishan           2408107010063
+3. Zanna Zikraana            2408107010094
+4. Cut Farah Salsabila       2408107010100
+ 
 # 🅿️ Smart Parking Detection (YOLO11)
 
 Sistem deteksi ketersediaan slot parkir otomatis (*kosong* vs *terisi*) berbasis *Computer Vision* menggunakan arsitektur **YOLO11** dan antarmuka web interaktif berbasis **Streamlit**.
