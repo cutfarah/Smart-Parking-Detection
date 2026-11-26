@@ -106,4 +106,4 @@ Buka browser pada alamat lokal yang muncul (default: `http://localhost:8501`), l
 - **Variasi Lingkungan & Sudut Kamera:** Metadata JSON yang digunakan tidak memuat atribut eksplisit untuk sudut kamera (*camera angle*) maupun kondisi cuaca; oleh karena itu performa pada kondisi pencahayaan malam atau sudut kamera yang sangat berbeda memerlukan pengujian lanjutan.
 - **Sifat Prediksi:** Jumlah slot kosong dan terisi dihitung berdasarkan objek yang terdeteksi oleh model pada ambang batas *confidence* tertentu dan merupakan hasil prediksi, bukan penghitungan fisik absolut.
 
-![Keep Smile :D](assets/carmen.png)
+<img src="assets/carmen.png" alt="Training Results" width="100" />
