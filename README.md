@@ -54,7 +54,7 @@ Model dilatih selama **50 epoch** (`imgsz=640`) pada lingkungan GPU Tesla T4 dan
 smart-parking-detection/
 ├── app.py                               # Aplikasi web Streamlit untuk inferensi lokal
 ├── Smart_Parking_Detection_Notebook.ipynb # Notebook preprocessing, konversi, & training
-├── models/
+├── model/
 │   └── best.pt                          # Bobot model YOLO11 terbaik hasil training
 ├── assets/
 │   ├── results.png                      # Grafik metrik & loss selama training
@@ -89,7 +89,7 @@ pip install ultralytics streamlit opencv-python-headless pillow numpy PyYAML
 ### 3. Pastikan Bobot Model Tersedia
 Letakkan file bobot hasil pelatihan (`best.pt`) di dalam folder `models/`:
 ```text
-models/best.pt
+model/best.pt
 ```
 
 ### 4. Jalankan Aplikasi Streamlit
