@@ -1,7 +1,7 @@
 # Kelompok 03
 
 1. Mahda Annisa              2408107010036
-2. M. Rayan Zishan           2408107010063
+2. M. Rayan Zishan           2408107010063 <img src="assets/carmen_usk.png" alt="Training Results" width="150" />
 3. Zanna Zikraana            2408107010094
 4. Cut Farah Salsabila       2408107010100
  
